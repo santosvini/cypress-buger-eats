@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Vinicius Santos",
+    "cpf": "00000014141",
+    "email": "vini_santos7@live.com",
+    "whatsapp": "1199999-9999",
+    "address": {
+      "postalcode": "02733-100",
+      "street": "Rua Tucunduva",
+      "number": "222",
+      "details": "Casa 2",
+      "district": "Vila São Vicente",
+      "city_state": "São Paulo/SP"
+    },
+    "delivery_method": "Van",
+    "cnh": "cnh-digital.jpg"
+  },
+  "cpf_inv": {
+    "name": "Joao Pedro",
+    "cpf": "x00000141AA",
+    "email": "vini_santos7@live.com",
+    "whatsapp": "118887-9999",
+    "address": {
+      "postalcode": "02733-100",
+      "street": "Rua Tucunduva",
+      "number": "12",
+      "details": "Casa 2",
+      "district": "Vila São Vicente",
+      "city_state": "São Paulo/SP"
+    },
+    "delivery_method": "Carro",
+    "cnh": "cnh-digital.jpg"
+  },
+  "email_inv": {
+    "name": "Vinicius Santos",
+    "cpf": "00000014141",
+    "email": "vini_live.com",
+    "whatsapp": "1199999-9999",
+    "address": {
+      "postalcode": "02733-100",
+      "street": "Rua Tucunduva",
+      "number": "222",
+      "details": "Casa 2",
+      "district": "Vila São Vicente",
+      "city_state": "São Paulo/SP"
+    },
+    "delivery_method": "Van",
+    "cnh": "cnh-digital.jpg"
+  }
+}
